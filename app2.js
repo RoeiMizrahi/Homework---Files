@@ -1,3 +1,5 @@
+//Roei Mizrahi
+
 const fs = require("fs");
 const inputFiles = [
   "text1.txt",
